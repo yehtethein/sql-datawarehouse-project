@@ -94,6 +94,7 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+Please see *Notion* Tracker Here --> https://www.notion.so/Data-Warehouse-Project-2510-28ed0f060e7780b88e8ee568417b2ff2?source=copy_link
 
 
 
